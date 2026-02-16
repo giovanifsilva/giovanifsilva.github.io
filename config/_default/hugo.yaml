@@ -8,6 +8,10 @@ theme: "hugo-narrow"
 hasCJKLanguage: true
 enableEmoji: true
 
+caches:
+  images:
+    dir: :cacheDir/images
+
 
 # Main Section Configuration (Optional)
 # If not configured, Hugo will automatically select the section with the most pages
