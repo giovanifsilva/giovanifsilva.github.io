@@ -3,7 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2026-02-16T22:30:00+08:00</lastmod>
+    <lastmod>2026-02-19T10:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/github/</loc>
+    <lastmod>2026-02-19T10:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/github/</loc>
+    <lastmod>2026-02-19T10:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/go/</loc>
+    <lastmod>2026-02-19T10:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/how-to-launch-a-static-website-with-a-custom-domain-using-hugo-and-github-pages/</loc>
+    <lastmod>2026-02-19T10:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/html/</loc>
+    <lastmod>2026-02-19T10:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2026-02-19T10:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-02-19T10:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/website/</loc>
+    <lastmod>2026-02-19T10:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/website/</loc>
+    <lastmod>2026-02-19T10:00:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/gallery/</loc>
     <lastmod>2026-02-16T22:30:00+08:00</lastmod>
@@ -12,12 +39,6 @@
     <lastmod>2026-02-16T22:30:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/image-gallery-test/</loc>
-    <lastmod>2026-02-16T22:30:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-02-16T22:30:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2026-02-16T22:30:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/markdown/</loc>
@@ -49,9 +70,6 @@
   </url><url>
     <loc>http://localhost:1313/about/</loc>
     <lastmod>2026-01-01T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/go/</loc>
-    <lastmod>2024-02-20T14:30:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/projects/hugo-framework/</loc>
     <lastmod>2024-02-20T14:30:00+08:00</lastmod>
